@@ -22,5 +22,5 @@ Bem-vindo ao repositório CalculadoraJunitTest! Este projeto tem como objetivo r
 ## Publicação 
 https://github.com/KauanS0uza/CalculadoraJunitTest
 
-##Ultima atualização 23/09/2023
+##Ultima atualização 06/11/2023
 
