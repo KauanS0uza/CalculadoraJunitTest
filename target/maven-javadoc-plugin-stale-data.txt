@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/IdeaPad Gaming/Documents/NetBeansProjects/Calculadorateste/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/IdeaPad Gaming/Documents/NetBeansProjects/Calculadorateste/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculadorateste 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Calculadorateste 1.0-SNAPSHOT API'
+Classes
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\src\main\java = 1695513171736
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\allclasses-index.html = 1699311803496
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\allpackages-index.html = 1699311803501
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\copy.svg = 1699311803534
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\element-list = 1699311803437
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\help-doc.html = 1699311803526
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\index-all.html = 1699311803518
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\index.html = 1699311803521
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\jquery-ui.overrides.css = 1699311803574
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\member-search-index.js = 1699311803506
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\module-search-index.js = 1699311803502
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\overview-tree.html = 1699311803483
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\package-search-index.js = 1699311803504
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\script.js = 1699311803532
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\search.js = 1699311803537
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\stylesheet.css = 1699311803530
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\tag-search-index.js = 1699311803507
+C:\Users\IdeaPad Gaming\Documents\NetBeansProjects\Calculadorateste\target\site\apidocs\type-search-index.js = 1699311803505

@@ -17,6 +17,7 @@ public class CalculadoraJunitTest {
     public void SomaPositivoZero(){
         calculo.Soma(10, 0);
     }
+    @Test
     public void SomaNegativoPositivo(){
         calculo.Soma(-10, 10);
     }
@@ -28,6 +29,7 @@ public class CalculadoraJunitTest {
     public void SomaNegativoZero(){
         calculo.Soma(-10, 0);
     }
+    @Test
     public void SomaZeroPositivo(){
         calculo.Soma(0, 10);
     }
@@ -52,6 +54,7 @@ public class CalculadoraJunitTest {
     public void SubPositivoZero(){
         calculo.Substracao(10, 0);
     }
+    @Test
     public void SubNegativoPositivo(){
         calculo.Substracao(-10, 10);
     }
@@ -63,6 +66,7 @@ public class CalculadoraJunitTest {
     public void SubNegativoZero(){
         calculo.Substracao(-10, 0);
     }
+    @Test
     public void SubZeroPositivo(){
         calculo.Substracao(0, 10);
     }
@@ -87,6 +91,7 @@ public class CalculadoraJunitTest {
     public void VezesPositivoZero(){
         calculo.Multiplicacao(10, 0);
     }
+    @Test
     public void VezesNegativoPositivo(){
         calculo.Multiplicacao(-10, 10);
     }
@@ -98,6 +103,7 @@ public class CalculadoraJunitTest {
     public void VezesNegativoZero(){
         calculo.Multiplicacao(-10, 0);
     }
+    @Test
     public void VezesZeroPositivo(){
         calculo.Multiplicacao(0, 10);
     }
@@ -118,6 +124,7 @@ public class CalculadoraJunitTest {
     public void DivPositivoNegativo(){
         calculo.Divisao(10, -10);
     }
+    @Test
     public void DivNegativoPositivo(){
         calculo.Divisao(-10, 10);
     }
@@ -125,6 +132,7 @@ public class CalculadoraJunitTest {
     public void DivNegativoNegativo(){
         calculo.Divisao(-10, -10);
     }
+    @Test
     public void DivZeroPositivo(){
         calculo.Divisao(0, 10);
     }
